@@ -4,6 +4,7 @@ description: Topics that will give you an overview of the Dolittles TimeSeries o
 keywords: TimeSeries, Overview
 weight: 1
 repository: https://github.com/dolittle-timeseries/home
+aliases: /timeseries/home/
 ---
 This holds the overview of what the Dolittle TimeSeries offering is all about. The different
 offerings, architecture and how to get started with it.

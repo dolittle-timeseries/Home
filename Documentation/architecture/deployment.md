@@ -4,6 +4,7 @@ description: Describes how the general architecture is
 keywords: TimeSeries
 author: einari
 weight: 2
+aliases: /timeseries/home/architecture/deployment
 ---
 As with any software, versioning and deployment are some of the hardest things
 to get right and with a scaled out scenario with multiple physical locations and
@@ -19,4 +20,3 @@ this complexity goes away. This also applies for deploying time series modules, 
 it is just another piece of software that needs to run somewhere. Working together
 with our [edge](/edge) support, it has all been optimized to make this seamless for
 the developer.
-
