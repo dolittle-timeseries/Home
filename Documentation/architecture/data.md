@@ -4,6 +4,7 @@ description: Describes how the general architecture is
 keywords: TimeSeries
 author: einari
 weight: 1
+aliases: /timeseries/home/architecture/data
 ---
 The overall architecture is built for flexibility and to be able to capture multiple
 different scenarios.
